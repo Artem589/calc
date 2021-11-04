@@ -1,4 +1,4 @@
-version 1.01 - добавление переменных, улучшение читаемости кода.
+// version 1.01 - добавление переменных, улучшение читаемости кода.
 function calc(operator, num1, num2) {
 
     const isNotArguments = !operator && !num1 && !num2
